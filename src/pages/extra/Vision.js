@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import SectionHeader from "../compontents/SectionHeader";
+import SectionHeader from "../../compontents/SectionHeader";
 
 const Vision = () => {
   const { t } = useTranslation();

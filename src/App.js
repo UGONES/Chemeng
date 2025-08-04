@@ -9,13 +9,13 @@ import About from './pages/About';
 import Services from './pages/Services';
 import Experiences from './pages/Experiences';
 import Contact from './pages/Contact';
-import Vision from "./extra/Vision";
-import Legals from './extra/Legal';
-import OrganizationChart from './extra/Organization';
-import TheExperts from './extra/Experts';
-import Consulting from './extra/Consultation';
-import Testing from './extra/Testing';
-import Training from './extra/Training';
+import Vision from "./pages/extra/Vision";
+import Legals from './pages/extra/Legal';
+import OrganizationChart from './pages/extra/Organization';
+import TheExperts from './pages/extra/Experts';
+import Consulting from './pages/extra/Consultation';
+import Testing from './pages/extra/Testing';
+import Training from './pages/extra/Training';
 import './App.css'; // Import your main CSS file
 import './styles/globals.css'; // Ensure Tailwind CSS is imported
 

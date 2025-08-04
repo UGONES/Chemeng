@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from "react-i18next";
-import SectionHeader from '../compontents/SectionHeader';
+import SectionHeader from '../../compontents/SectionHeader';
 
 const Consulting = () => {
   const { t } = useTranslation();

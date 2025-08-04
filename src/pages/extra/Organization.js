@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import SectionHeader from "../compontents/SectionHeader";
+import SectionHeader from "../../compontents/SectionHeader";
 
 const Organization = () => {
   const { t } = useTranslation();

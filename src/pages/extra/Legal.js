@@ -5,7 +5,7 @@ import { Autoplay, EffectFade } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/effect-fade";
 
-import SectionHeader from "../compontents/SectionHeader";
+import SectionHeader from "../../compontents/SectionHeader";
 
 const images = [
   { image: "/assests/0111-hd-cheme-study-abroad.jpg" },
