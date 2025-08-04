@@ -22,7 +22,7 @@ const Home = () => {
   return (
     <div className="margin-top-0 w-auto">
       {/* Hero Section */}
-      <section className="min-h-[50vh] w-full flex items-center">
+      <section className="min-h-[100vh] w-full flex items-center">
         <video
           className="absolute inset-0 w-full h-full object-cover"
           src="/assests/hero-video.mp4"
