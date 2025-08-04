@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "consulting": "Consultation",
+    "training": "Formation",
+    "experiences": "Expériences",
+    "contact": "Contact"
+  },
+  "footer": {
+    "tagline": "Façonner l’avenir industriel de l’Afrique.",
+    "quick_links": "Liens rapides",
+    "office": "Bureau",
+    "email": "Email",
+    "follow": "Suivez-nous",
+    "consulting": "Consultation & Formation",
+    "testing": "Essais",
+    "rights": "Services de génie chimique. Tous droits réservés."
+  },
+  "header": {
+    "department": "Département de Génie Chimique"
+  },
+  "loader": {
+    "loading": "Chargement de CSU ChemEng..."
+  },
+  "section": {
+    "vision": "Vision & Mission",
+    "org_chart": "Organigramme",
+    "personnel": "Personnel",
+    "experts": "Rencontrez les Experts",
+    "services": "Nos Services",
+    "legal": "Aspects Juridiques & Mérites",
+    "highlighted_projects": "Projets phares",
+    "clients": "Nos Clients",
+    "experiences": "Expériences de Projets",
+    "contact": "Contactez-nous"
+  },
+  "servicesCarousel": {
+    "altText": "Service"
+  },
+  "consulting": {
+    "hero": "Services de Consultation",
+    "title": "Consultation sur mesure en génie chimique",
+    "desc": "Nos experts offrent des services complets aux industries recherchant l'excellence technique, des processus rentables et des solutions durables.",
+    "list": [
+      "Optimisation et conception des processus",
+      "Études de faisabilité et d'analyse de sécurité",
+      "Conseils réglementaires et conformité",
+      "Gestion et mise en œuvre de projets"
+    ]
+  },
+  "testing": {
+    "hero": "Essais & Analyse",
+    "title": "Services de tests industriels fiables",
+    "desc": "Nous proposons des services d’essais de haute qualité sur les matières premières, produits et échantillons environnementaux à l’aide d’équipements analytiques avancés.",
+    "list": [
+      "Tests de composition chimique et de pureté",
+      "Tests de propriétés physiques et mécaniques",
+      "Tests environnementaux et de sécurité",
+      "Rapports personnalisés et recommandations"
+    ]
+  },
+  "training": {
+    "hero": "Programmes de Formation",
+    "title": "Autonomisation des ingénieurs chimistes",
+    "desc": "Nous proposons des formations pratiques pour les professionnels, les étudiants et les équipes industrielles afin d'améliorer leurs compétences et appliquer les bonnes pratiques en génie chimique.",
+    "list": [
+      "Cours courts et ateliers",
+      "Formations en entreprise",
+      "Développement des compétences en laboratoire",
+      "Programmes personnalisés pour les institutions"
+    ]
+  },
+  "expert": {
+    "desc": "Notre équipe se compose d’experts renommés possédant des décennies d’expérience dans le monde universitaire, industriel et public. Leur engagement et leurs connaissances sont la base de l’excellence de CSU."
+  },
+  "legal": {
+    "desc": "Le département de génie chimique de CSU respecte les normes juridiques nationales et internationales. Il est certifié par plusieurs organismes de réglementation et a reçu de nombreuses distinctions pour ses réalisations dans le milieu académique et les partenariats industriels.",
+    "award_title": "Titre du prix"
+  },
+"organization": {
+  "desc": "Notre département est structuré pour assurer l'efficacité, la collaboration et l'innovation. Ci‑dessous la structure organisationnelle officielle, depuis le niveau exécutif jusqu’aux chefs de département.",
+  "head_of_dept": "Chef de département",
+  "head_of_dept_desc": "Dirige le département avec une vision d’innovation et d’excellence.",
+  "senior_lecturer": "Enseignant principal",
+  "senior_lecturer_desc": "Spécialisé en génie des procédés et pratiques durables.",
+  "research_coord": "Coordinateur de recherche",
+  "research_coord_desc": "Conduit les initiatives de recherche et les collaborations avec l’industrie.",
+  "industrial_liaison": "Chargé des relations industrielles",
+  "industrial_liaison_desc": "Relie l’académie à l’industrie pour des solutions concrètes."
+},
+ "vision": {
+  "title": "Vision et Mission",
+  "our_vision": "Notre Vision",
+  "our_vision_desc": "Être un leader mondial de l’enseignement, de la recherche et de l’innovation en génie chimique, en promouvant le développement durable et la transformation industrielle à travers l’Afrique.",
+  "our_mission": "Notre Mission",
+  "our_mission_desc": "Donner aux étudiants et aux chercheurs les connaissances, les outils et les compétences de pensée critique nécessaires pour développer des solutions pratiques dans les domaines du génie chimique, tout en maintenant l'excellence académique et la responsabilité éthique."
+},
+  "about": {
+    "title": "À propos de nous",
+    "heroTitle": "À propos de CSU ChemEng",
+    "who_we_are": "Qui sommes-nous",
+    "whoWeAreTitle": "Qui sommes-nous",
+    "who_we_are_text": "Le département de génie chimique de la CSU est un pilier de l’innovation et de l’excellence académique. Son histoire repose sur des décennies de partenariats industriels, de recherches novatrices et de formation des meilleurs ingénieurs d’Afrique.",
+    "description": "Le département de génie chimique de la CSU est un pilier de l’innovation...",
+    "discover_more": "Découvrir plus",
+    "cards": {
+      "vision": "Vision & Mission",
+      "legals": "Légaux",
+      "organization": "Organigramme",
+      "experts": "Les Experts"
+    },
+    "discover": [
+      "Vision & Mission",
+      "Légaux",
+      "Organigramme",
+      "Les Experts"
+    ],
+    "learn_more": "En savoir plus →"
+  },
+  "contact": {
+    "get_in_touch": "Entrer en contact",
+    "name": "Votre nom",
+    "email": "Votre email",
+    "message": "Votre message",
+    "send": "Envoyer le message"
+  },
+  "experiences": {
+    "highlighted_projects": "Projets phares",
+    "highlightedProjectsTitle": "Projets phares",
+    "highlighted_subtitle": "Réalisations récentes",
+    "highlightedProjectsSubtitle": "Réalisations récentes",
+    "our_clients": "Nos Clients",
+    "clientsTitle": "Nos Clients",
+    "refinery": "Modernisation de la raffinerie",
+    "pipeline": "Test de pipeline"
+  },
+  "home": {
+    "hero_title": "CSU ChemEng",
+    "heroTitle": "CSU ChemEng",
+    "hero_subtitle": "Faire progresser le génie chimique par l’innovation, la précision et des services professionnels dans les industries africaines.",
+    "heroSubtitle": "Faire progresser le génie chimique par l’innovation, la précision et des services professionnels dans les industries africaines.",
+    "learn_more": "En savoir plus",
+    "button": "En savoir plus",
+    "scroll": "Faites défiler",
+    "services_title": "Nos Services",
+    "servicesSubtitle": "Explorez nos services principaux en génie chimique",
+    "services_subtitle": "Explorez nos services...",
+    "consulting": {
+      "title": "Consultation",
+      "desc": "Planification experte et stratégies pour des résultats optimaux."
+    },
+    "testing": {
+      "title": "Essais",
+      "desc": "Solutions de test fiables pour les matériaux chimiques et industriels."
+    },
+    "training": {
+      "title": "Formation",
+      "desc": "Renforcez les compétences de votre équipe en génie chimique."
+    },
+    "achievements": {
+      "title": "Nos Réalisations",
+      "subtitle": "Excellence reconnue...",
+      "achievementsSubtitle": "Excellence reconnue en génie chimique",
+      "desc": "Au fil des ans, CSU ChemEng a fourni des services professionnels à fort impact et reconnus dans l’industrie.",
+      "achievementsDescription": "Au fil des ans, CSU ChemEng a fourni des services professionnels à fort impact et reconnus dans l’industrie.",
+      "years": "Années d'excellence",
+      "clients": "Clients satisfaits",
+      "more_than": "Avec plus de",
+      "moreThan": "Avec plus de",
+      "testing": "Tests réalisés",
+      "consultation": "Consultations réalisées",
+      "training": "Formations dispensées",
+      "research": "Recherches réalisées"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "intro": "Découvrez nos services techniques conçus pour garantir l’excellence dans tous les domaines du génie chimique.",
+    "description_1": "Découvrez nos services techniques...",
+    "description_2": "Nos services comprennent la consultation, les tests et la formation adaptés aux besoins spécifiques de chaque client.",
+    "details": "Nos services comprennent la consultation, les tests et la formation adaptés aux besoins spécifiques de chaque client.",
+    "explore_testing": "Explorer les services de test",
+    "testingButton": "Explorer les services de test",
+    "see_experiences": "Voir nos expériences",
+    "experienceLink": "Voir nos expériences"
+  }
+}

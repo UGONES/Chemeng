@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "consulting": "Beratung",
+    "training": "Schulung",
+    "experiences": "Erfahrungen",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "tagline": "Gestaltung der industriellen Zukunft Afrikas.",
+    "quick_links": "Schnellzugriff",
+    "office": "Büro",
+    "email": "E-Mail",
+    "follow": "Folgen Sie uns",
+    "consulting": "Beratung & Schulung",
+    "testing": "Testen",
+    "rights": "Chemical Engineering Services. Alle Rechte vorbehalten."
+  },
+  "header": {
+    "department": "Fachbereich Chemieingenieurwesen"
+  },
+  "loader": {
+    "loading": "CSU ChemEng wird geladen..."
+  },
+  "section": {
+    "vision": "Vision & Mission",
+    "org_chart": "Organigramm",
+    "personnel": "Personal",
+    "experts": "Treffen Sie die Experten",
+    "services": "Unsere Dienstleistungen",
+    "legal": "Unsere Rechtslage & Verdienste",
+    "highlighted_projects": "Hervorgehobene Projekte",
+    "clients": "Unsere Kunden",
+    "experiences": "Projekterfahrungen",
+    "contact": "Kontaktieren Sie uns"
+  },
+  "servicesCarousel": {
+    "altText": "Dienst"
+  },
+  "consulting": {
+    "hero": "Beratungsdienste",
+    "title": "Individuelle chemische Ingenieurberatung",
+    "desc": "Unsere Experten bieten umfassende Beratungsdienste für Unternehmen, die technische Exzellenz, kosteneffiziente Prozesse und nachhaltige Lösungen anstreben.",
+    "list": [
+      "Prozessoptimierung & -gestaltung",
+      "Machbarkeits- und Sicherheitsanalysen",
+      "Regulatorische und Compliance-Beratung",
+      "Projektmanagement & Umsetzung"
+    ]
+  },
+  "testing": {
+    "hero": "Tests & Analyse",
+    "title": "Zuverlässige industrielle Testdienste",
+    "desc": "Wir bieten hochwertige Testdienstleistungen für Rohstoffe, Produkte und Umweltproben mit modernster Analysentechnik.",
+    "list": [
+      "Analyse chemischer Zusammensetzung & Reinheit",
+      "Physikalische und mechanische Tests",
+      "Umwelt- und Sicherheitstests",
+      "Individuelle Berichte und Empfehlungen"
+    ]
+  },
+  "training": {
+    "hero": "Schulungsprogramme",
+    "title": "Chemieingenieure befähigen",
+    "desc": "Wir bieten praxisorientierte Schulungsprogramme für Fachkräfte, Studenten und Unternehmen zur Weiterentwicklung moderner ingenieurtechnischer Fähigkeiten.",
+    "list": [
+      "Kurzkurse und Workshops",
+      "Vor-Ort-Schulungen in der Industrie",
+      "Laborfähigkeiten entwickeln",
+      "Individuell gestaltete Programme für Institutionen"
+    ]
+  },
+  "expert": {
+    "desc": "Unser Team besteht aus anerkannten Experten mit jahrzehntelanger Erfahrung in Wissenschaft, Industrie und öffentlichem Sektor. Ihr Engagement und Wissen bilden das Rückgrat der Exzellenz von CSU."
+  },
+  "legal": {
+    "desc": "Die Abteilung für Chemieingenieurwesen der CSU erfüllt nationale und internationale gesetzliche Standards. Wir sind von verschiedenen Behörden zertifiziert und wurden mehrfach für unsere Leistungen in Forschung und Industriepartnerschaften ausgezeichnet.",
+    "award_title": "Auszeichnungstitel"
+  },
+ "organization": {
+  "desc": "Unsere Abteilung ist so strukturiert, dass Effizienz, Zusammenarbeit und Innovation gewährleistet sind. Unten sehen Sie die offizielle Organisationsstruktur vom Führungsteam bis hin zu den Bereichsleitungen.",
+  "head_of_dept": "Abteilungsleiter",
+  "head_of_dept_desc": "Leitet die Abteilung mit einer Vision für Innovation und Exzellenz.",
+  "senior_lecturer": "Oberdozent",
+  "senior_lecturer_desc": "Spezialisiert auf Verfahrenstechnik und nachhaltige Praktiken.",
+  "research_coord": "Forschungskoordinator",
+  "research_coord_desc": "Leitet Forschungsinitiativen und Kooperationen mit der Industrie.",
+  "industrial_liaison": "Industriekontakt-Beauftragter",
+  "industrial_liaison_desc": "Verbindet die akademischen Institutionen mit der Industrie für praxisorientierte Lösungen."
+},
+"vision": {
+  "title": "Vision und Mission",
+  "our_vision": "Unsere Vision",
+  "our_vision_desc": "Eine weltweit führende Rolle in der Ausbildung, Forschung und Innovation im Bereich der Chemietechnik einzunehmen, um nachhaltige Entwicklung und industrielle Transformation in ganz Afrika voranzutreiben.",
+  "our_mission": "Unsere Mission",
+  "our_mission_desc": "Studierende und Forschende mit dem Wissen, den Werkzeugen und den kritischen Denkfähigkeiten auszustatten, die zur Entwicklung praktischer Lösungen im Bereich der Chemietechnik erforderlich sind – unter Wahrung akademischer Exzellenz und ethischer Verantwortung."
+},
+  "about": {
+    "title": "Über uns",
+    "heroTitle": "Über CSU ChemEng",
+    "who_we_are": "Wer wir sind",
+    "whoWeAreTitle": "Wer wir sind",
+    "who_we_are_text": "Die Abteilung für Chemieingenieurwesen an der CSU ist ein Zentrum für Innovation und akademische Exzellenz. Unsere Geschichte basiert auf langjährigen Industriepartnerschaften, bahnbrechender Forschung und der Ausbildung führender Chemieingenieure Afrikas.",
+    "description": "Die Abteilung für Chemieingenieurwesen an der CSU ist ein Zentrum für Innovation...",
+    "discover_more": "Mehr entdecken",
+    "cards": {
+      "vision": "Vision & Mission",
+      "legals": "Rechtliches",
+      "organization": "Organigramm",
+      "experts": "Die Experten"
+    },
+    "discover": [
+      "Vision & Mission",
+      "Rechtliches",
+      "Organigramm",
+      "Die Experten"
+    ],
+    "learn_more": "Mehr erfahren →"
+  },
+  "contact": {
+    "get_in_touch": "Kontaktieren Sie uns",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "message": "Ihre Nachricht",
+    "send": "Nachricht senden"
+  },
+  "experiences": {
+    "highlighted_projects": "Hervorgehobene Projekte",
+    "highlightedProjectsTitle": "Hervorgehobene Projekte",
+    "highlighted_subtitle": "Aktuelle Ingenieurprojekte",
+    "highlightedProjectsSubtitle": "Aktuelle Ingenieurprojekte",
+    "our_clients": "Unsere Kunden",
+    "clientsTitle": "Unsere Kunden",
+    "refinery": "Raffinerie-Modernisierung",
+    "pipeline": "Pipeline-Test"
+  },
+  "home": {
+    "hero_title": "CSU ChemEng",
+    "heroTitle": "CSU ChemEng",
+    "hero_subtitle": "Förderung der chemischen Verfahrenstechnik durch Innovation, Präzision und professionelle Dienstleistungen in Afrikas Industrie.",
+    "heroSubtitle": "Förderung der chemischen Verfahrenstechnik durch Innovation, Präzision und professionelle Dienstleistungen in Afrikas Industrie.",
+    "learn_more": "Mehr erfahren",
+    "button": "Mehr erfahren",
+    "scroll": "Scrollen",
+    "services_title": "Unsere Dienstleistungen",
+    "servicesSubtitle": "Entdecken Sie unser Angebot in der chemischen Verfahrenstechnik",
+    "services_subtitle": "Entdecken Sie unser Angebot...",
+    "consulting": {
+      "title": "Beratung",
+      "desc": "Strategische Planung und technisches Know-how für beste Ergebnisse."
+    },
+    "testing": {
+      "title": "Testen",
+      "desc": "Zuverlässige Prüflösungen für chemische und industrielle Materialien."
+    },
+    "training": {
+      "title": "Schulung",
+      "desc": "Praktische Weiterbildungen für Ingenieurteams."
+    },
+    "achievements": {
+      "title": "Unsere Erfolge",
+      "subtitle": "Anerkannte Spitzenleistungen...",
+      "achievementsSubtitle": "Anerkannte Spitzenleistungen im Chemieingenieurwesen",
+      "desc": "Im Laufe der Jahre hat CSU ChemEng professionelle Dienstleistungen mit messbarem Einfluss und branchenweiter Anerkennung erbracht.",
+      "achievementsDescription": "Im Laufe der Jahre hat CSU ChemEng professionelle Dienstleistungen mit messbarem Einfluss und branchenweiter Anerkennung erbracht.",
+      "years": "Jahre der Exzellenz",
+      "clients": "Zufriedene Kunden",
+      "more_than": "Mit mehr als",
+      "moreThan": "Mit mehr als",
+      "testing": "Gesamttests",
+      "consultation": "Gesamtberatungen",
+      "training": "Gesamtschulungen",
+      "research": "Gesamtforschung"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "intro": "Entdecken Sie unsere technischen Dienstleistungen und unser Fachwissen für Exzellenz in der chemischen Verfahrenstechnik.",
+    "description_1": "Entdecken Sie unsere technischen Dienstleistungen...",
+    "description_2": "Unsere Dienstleistungen umfassen Beratung, Tests und Schulungen, individuell auf die Bedürfnisse unserer Kunden zugeschnitten.",
+    "details": "Unsere Dienstleistungen umfassen Beratung, Tests und Schulungen, individuell auf die Bedürfnisse unserer Kunden zugeschnitten.",
+    "explore_testing": "Testdienstleistungen erkunden",
+    "testingButton": "Testdienstleistungen erkunden",
+    "see_experiences": "Unsere Erfahrungen ansehen",
+    "experienceLink": "Unsere Erfahrungen ansehen"
+  }
+}

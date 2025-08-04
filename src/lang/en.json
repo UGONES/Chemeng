@@ -1,0 +1,189 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "consulting": "Consultancy",
+        "training": "Training",
+        "experiences": "Experiences",
+        "contact": "Contact Us"
+    },
+    "footer": {
+        "tagline": "Engineering Africa’s industrial future.",
+        "quick_links": "Quick Links",
+        "office": "Office",
+        "email": "Email",
+        "follow": "Follow Us",
+        "consulting": "Consultancy & Training",
+        "testing": "Testing",
+        "rights": "Chemical Engineering Services. All rights reserved."
+    },
+    "header": {
+        "department": "Chemical Engineering Department"
+    },
+    "loader": {
+        "loading": "CSU ChemEng Loading..."
+    },
+    "section": {
+        "vision": "Vision & Mission",
+        "org_chart": "Organization Chart",
+        "personnel": "Personels",
+        "experts": "Meet the Experts",
+        "services": "Our Services",
+        "legal": "Our Legal & Merits",
+        "highlighted_projects": "Highlighted Projects",
+        "clients": "Our Clients",
+        "experiences": "Project Experiences",
+        "contact": "Contact Us"
+    },
+    "servicesCarousel": {
+        "altText": "Service"
+    },
+    "consulting": {
+        "hero": "Consulting Services",
+        "title": "Tailored Chemical Engineering Consulting",
+        "desc": "Our experts provide comprehensive consulting services to industries seeking technical excellence, cost-effective processes, and sustainable solutions.",
+        "list": [
+            "Process optimization & design",
+            "Feasibility and safety analysis",
+            "Regulatory and compliance guidance",
+            "Project management & implementation"
+        ]
+    },
+    "testing": {
+        "hero": "Testing & Analysis",
+        "title": "Reliable Industrial Testing Services",
+        "desc": "We offer top-tier testing services for raw materials, products, and environmental samples using advanced analytical equipment and methods.",
+        "list": [
+            "Chemical composition & purity testing",
+            "Physical property and mechanical tests",
+            "Environmental and safety testing",
+            "Customized reports and recommendations"
+        ]
+    },
+    "training": {
+        "hero": "Training Programs",
+        "title": "Empowering Chemical Engineers",
+        "desc": "We design hands-on training programs for professionals, students, and industry teams to elevate skills and apply modern chemical engineering practices.",
+        "list": [
+            "Short courses and workshops",
+            "On-site industrial training",
+            "Lab skill development",
+            "Custom-built programs for institutions"
+        ]
+    },
+    "expert": {
+        "desc": "Our team comprises renowned experts with decades of experience across academia, industry, and public sectors. Their commitment and knowledge are the backbone of CSU's engineering excellence."
+    },
+    "legal": {
+        "desc": "CSU Chemical Engineering Department complies with national and international legal standards. We are certified by various regulatory bodies and have earned numerous awards for our achievements in academia, industrial partnerships, and innovation.",
+        "award_title": "Award Title"
+    },
+    "organization": {
+  "desc": "Our department is structured to ensure efficiency, collaboration, and innovation. Below is the official organizational structure from the executive level to the departmental heads.",
+  "head_of_dept": "Head of Department",
+  "head_of_dept_desc": "Leading the department with a vision for innovation and excellence.",
+  "senior_lecturer": "Senior Lecturer",
+  "senior_lecturer_desc": "Specializing in process engineering and sustainable practices.",
+  "research_coord": "Research Coordinator",
+  "research_coord_desc": "Driving research initiatives and collaborations with industry.",
+  "industrial_liaison": "Industrial Liaison Officer",
+  "industrial_liaison_desc": "Connecting academia with industry for practical solutions."
+},
+    "vision": {
+        "title": "Vision & Mission",
+        "our_vision": "Our Vision",
+        "our_vision_desc": "To be a global leader in chemical engineering education, research, and innovation, driving sustainable development and industrial transformation across Africa.",
+        "our_mission": "Our Mission",
+        "our_mission_desc": "To empower students and researchers with the knowledge, tools, and critical thinking skills needed to develop practical solutions in chemical engineering fields, while upholding academic excellence and ethical responsibility."
+    },
+    "about": {
+        "title": "About Us",
+        "heroTitle": "About CSU ChemEng",
+        "who_we_are": "Who We Are",
+        "whoWeAreTitle": "Who We Are",
+        "who_we_are_text": "The Department of Chemical Engineering at CSU stands as a pillar of innovation and academic excellence. Our history is built on decades of industrial partnerships, groundbreaking research, and the development of Africa’s finest chemical engineers. With a mission to drive sustainable engineering solutions and a vision rooted in global impact, we continue to shape the future of process industries across the continent and beyond.",
+        "description": "The Department of Chemical Engineering at CSU stands as a pillar of innovation...",
+        "discover_more": "Discover More",
+        "cards": {
+            "vision": "Vision & Mission",
+            "legals": "Legals",
+            "organization": "Organization Chart",
+            "experts": "The Experts"
+        },
+        "discover": [
+            "Vision & Mission",
+            "Legals",
+            "Organization Chart",
+            "The Experts"
+        ],
+        "learn_more": "Learn more →"
+    },
+    "contact": {
+        "get_in_touch": "Get in Touch",
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Your Message",
+        "send": "Send Message"
+    },
+    "experiences": {
+        "highlighted_projects": "Highlighted Projects",
+        "highlightedProjectsTitle": "Highlighted Projects",
+        "highlighted_subtitle": "Recent key engineering works",
+        "highlightedProjectsSubtitle": "Recent key engineering works",
+        "our_clients": "Our Clients",
+        "clientsTitle": "Our Clients",
+        "refinery": "Refinery Upgrade",
+        "pipeline": "Pipeline Test"
+    },
+    "home": {
+        "hero_title": "CSU ChemEng",
+        "heroTitle": "CSU ChemEng",
+        "hero_subtitle": "Advancing chemical engineering through innovation...",
+        "heroSubtitle": "Advancing chemical engineering through innovation, precision, and professional services in Africa’s industries.",
+        "learn_more": "Learn More",
+        "button": "Learn More",
+        "scroll": "Scroll",
+        "services_title": "Our Services",
+        "servicesSubtitle": "Explore our core offerings in chemical engineering",
+        "services_subtitle": "Explore our core offerings...",
+        "consulting": {
+            "title": "Consulting",
+            "desc": "Expert planning and engineering strategies for optimal results."
+        },
+        "testing": {
+            "title": "Testing",
+            "desc": "Reliable testing solutions for chemical and industrial materials."
+        },
+        "training": {
+            "title": "Training",
+            "desc": "Upskill your team with practical chemical engineering knowledge."
+        },
+        "achievements": {
+            "title": "Our Achievements",
+            "subtitle": "Recognized excellence...",
+            "achievementsSubtitle": "Recognized excellence in chemical engineering",
+            "desc": "Over the years, CSU ChemEng has delivered professional services with measurable impact and industry-wide recognition.",
+            "achievementsDescription": "Over the years, CSU ChemEng has delivered professional services with measurable impact and industry-wide recognition.",
+            "years": "Years of Excellence",
+            "clients": "Satisfied Clients",
+            "more_than": "With more than",
+            "moreThan": "With more than",
+            "testing": "Total Testings",
+            "consultation": "Total Consultations",
+            "training": "Total Trainings",
+            "research": "Total Researches"
+        }
+    },
+    "services": {
+        "title": "Our Services",
+        "intro": "Explore our technical services and expertise crafted for excellence across various chemical engineering domains.",
+        "description_1": "Explore our technical services...",
+        "description_2": "Links to our services include...",
+        "details": "Links to our services include consultancy, testing, and training, all designed to meet the unique needs of our clients.",
+        "explore_testing": "Explore Testing Services",
+        "testingButton": "Explore Testing Services",
+        "see_experiences": "See our experiences",
+        "experienceLink": "See our experiences"
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "nav": {
+        "home": "ホーム",
+        "about": "私たちについて",
+        "services": "サービス",
+        "consulting": "コンサルティング",
+        "training": "トレーニング",
+        "experiences": "経験",
+        "contact": "お問い合わせ"
+    },
+    "footer": {
+        "tagline": "アフリカの産業の未来を形作る。",
+        "quick_links": "クイックリンク",
+        "office": "オフィス",
+        "email": "メール",
+        "follow": "フォローする",
+        "consulting": "コンサルティング & トレーニング",
+        "testing": "テスト",
+        "rights": "化学工学サービス。全著作権所有。"
+    },
+    "header": {
+        "department": "化学工学部"
+    },
+    "loader": {
+        "loading": "CSU ChemEng 読み込み中..."
+    },
+    "section": {
+        "vision": "ビジョン & ミッション",
+        "org_chart": "組織図",
+        "personnel": "スタッフ",
+        "experts": "専門家の紹介",
+        "services": "私たちのサービス",
+        "legal": "法的情報 & 認証",
+        "highlighted_projects": "注目のプロジェクト",
+        "clients": "クライアント",
+        "experiences": "プロジェクト経験",
+        "contact": "お問い合わせ"
+    },
+    "servicesCarousel": {
+        "altText": "サービス"
+    },
+    "consulting": {
+        "hero": "コンサルティングサービス",
+        "title": "化学工学に特化したコンサルティング",
+        "desc": "当社の専門家は、技術的優位性、コスト効率、持続可能なソリューションを求める企業に包括的なコンサルティングを提供します。",
+        "list": [
+            "プロセス最適化と設計",
+            "実現可能性と安全性分析",
+            "法規制とコンプライアンスのガイド",
+            "プロジェクト管理と実装"
+        ]
+    },
+    "testing": {
+        "hero": "試験と分析",
+        "title": "信頼できる産業用試験サービス",
+        "desc": "当社は、先進的な分析機器と手法を用いて、原材料、製品、および環境サンプルの高品質な試験を提供しています。",
+        "list": [
+            "化学成分と純度の試験",
+            "物理的および機械的特性試験",
+            "環境および安全試験",
+            "カスタマイズされたレポートと提案"
+        ]
+    },
+    "training": {
+        "hero": "トレーニングプログラム",
+        "title": "化学エンジニアの能力向上",
+        "desc": "当社は、専門家、学生、業界チームのために、実践的な化学工学スキルを習得するためのトレーニングプログラムを設計しています。",
+        "list": [
+            "短期コースとワークショップ",
+            "現場での産業トレーニング",
+            "ラボスキルの開発",
+            "機関向けカスタムプログラム"
+        ]
+    },
+    "expert": {
+        "desc": "当社のチームは、学界、産業界、公的機関で数十年の経験を持つ専門家で構成されています。その献身と知識はCSUの工学的卓越性の基盤です。"
+    },
+    "legal": {
+        "desc": "CSU化学工学部は、国内外の法的基準に準拠しており、様々な規制機関により認証を受けています。また、学術、産業パートナーシップ、革新において多くの賞を受賞しています。",
+        "award_title": "受賞タイトル"
+    },
+"organization": {
+  "desc": "当部門は、効率性、協力、そしてイノベーションを確保するために構築されています。以下に、幹部レベルから各部署の責任者までの公式組織図を示します。",
+  "head_of_dept": "部門責任者",
+  "head_of_dept_desc": "イノベーションと卓越性のビジョンで部門を率いています。",
+  "senior_lecturer": "上級講師",
+  "senior_lecturer_desc": "プロセス工学と持続可能な実践に特化。",
+  "research_coord": "研究コーディネーター",
+  "research_coord_desc": "産業界との協力を通じた研究イニシアチブを推進します。",
+  "industrial_liaison": "産業リエゾン担当",
+  "industrial_liaison_desc": "実践的なソリューションのために学術界と産業界をつなぎます。"
+},
+    "vision": {
+        "title": "ビジョンと使命",
+        "our_vision": "私たちのビジョン",
+        "our_vision_desc": "化学工学の教育、研究、革新において世界的なリーダーとなり、アフリカ全体で持続可能な開発と産業の変革を推進すること。",
+        "our_mission": "私たちの使命",
+        "our_mission_desc": "学生や研究者に必要な知識、ツール、批判的思考スキルを提供し、化学工学分野で実用的なソリューションを開発できるよう支援し、学問的卓越性と倫理的責任を守ること。"
+    },
+    "about": {
+        "title": "私たちについて",
+        "heroTitle": "CSU ChemEngについて",
+        "who_we_are": "私たちについて",
+        "whoWeAreTitle": "私たちについて",
+        "who_we_are_text": "CSU化学工学部は、革新と学問的卓越性の柱です。当部門は、アフリカ最高の化学エンジニアを育成し、産業界と連携した研究を展開しています。",
+        "description": "当部門は、産業とのパートナーシップと画期的な研究により、その歴史を築いてきました。",
+        "discover_more": "さらに詳しく",
+        "cards": {
+            "vision": "ビジョン & ミッション",
+            "legals": "法的情報",
+            "organization": "組織図",
+            "experts": "専門家"
+        },
+        "discover": [
+            "ビジョン & ミッション",
+            "法的情報",
+            "組織図",
+            "専門家"
+        ],
+        "learn_more": "さらに詳しく →"
+    },
+    "contact": {
+        "get_in_touch": "お問い合わせ",
+        "name": "お名前",
+        "email": "メールアドレス",
+        "message": "メッセージ",
+        "send": "送信"
+    },
+    "experiences": {
+        "highlighted_projects": "注目のプロジェクト",
+        "highlightedProjectsTitle": "注目のプロジェクト",
+        "highlighted_subtitle": "最近の主要な工学プロジェクト",
+        "highlightedProjectsSubtitle": "最近の主要な工学プロジェクト",
+        "our_clients": "クライアント",
+        "clientsTitle": "クライアント",
+        "refinery": "製油所のアップグレード",
+        "pipeline": "パイプライン試験"
+    },
+    "home": {
+        "hero_title": "CSU ChemEng",
+        "heroTitle": "CSU ChemEng",
+        "hero_subtitle": "アフリカの産業における革新、精密、専門サービスで化学工学を推進する。",
+        "heroSubtitle": "アフリカの産業における革新、精密、専門サービスで化学工学を推進する。",
+        "learn_more": "さらに詳しく",
+        "button": "さらに詳しく",
+        "scroll": "スクロール",
+        "services_title": "私たちのサービス",
+        "servicesSubtitle": "化学工学の主なサービスをご覧ください",
+        "services_subtitle": "私たちの提供サービス...",
+        "consulting": {
+            "title": "コンサルティング",
+            "desc": "最適な結果のための専門的な計画と戦略"
+        },
+        "testing": {
+            "title": "テスト",
+            "desc": "化学・産業向けの信頼性の高いテストソリューション"
+        },
+        "training": {
+            "title": "トレーニング",
+            "desc": "実践的な知識でチームのスキルを強化"
+        },
+        "achievements": {
+            "title": "私たちの実績",
+            "subtitle": "高い評価を受ける卓越性...",
+            "achievementsSubtitle": "化学工学における卓越性",
+            "desc": "CSU ChemEngは、長年にわたり業界に大きな影響を与える専門サービスを提供してきました。",
+            "achievementsDescription": "測定可能な成果と広範な評価を得ています。",
+            "years": "卓越の年数",
+            "clients": "満足したクライアント",
+            "more_than": "以上",
+            "moreThan": "以上",
+            "testing": "総テスト数",
+            "consultation": "総コンサルティング数",
+            "training": "総トレーニング数",
+            "research": "総研究数"
+        }
+    },
+    "services": {
+        "title": "私たちのサービス",
+        "intro": "化学工学のための専門技術サービスをご覧ください。",
+        "description_1": "技術サービスの詳細をご覧ください...",
+        "description_2": "コンサルティング、テスト、トレーニングなどのサービスがあります。",
+        "details": "クライアントのニーズに合わせたサービス",
+        "explore_testing": "テストサービスを見る",
+        "testingButton": "テストサービスを見る",
+        "see_experiences": "実績を見る",
+        "experienceLink": "実績を見る"
+    }
+}

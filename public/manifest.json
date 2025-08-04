@@ -1,0 +1,25 @@
+{
+  "short_name": "CSU Chem Eng",
+  "name": "CSU Chemical Engineering",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "215x114"
+    },
+    {
+      "src": "logo215.png",
+      "type": "image/png",
+      "sizes": "215x114"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "consulting": "咨询服务",
+    "training": "培训课程",
+    "experiences": "项目经验",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "tagline": "打造非洲工业的未来。",
+    "quick_links": "快速链接",
+    "office": "办公室",
+    "email": "电子邮件",
+    "follow": "关注我们",
+    "consulting": "咨询与培训",
+    "testing": "检测服务",
+    "rights": "化学工程服务。版权所有。"
+  },
+  "header": {
+    "department": "化学工程系"
+  },
+  "loader": {
+    "loading": "CSU 化学工程加载中..."
+  },
+  "section": {
+    "vision": "愿景与使命",
+    "org_chart": "组织结构图",
+    "personnel": "人员信息",
+    "experts": "专家团队",
+    "services": "我们的服务",
+    "legal": "法律信息与荣誉",
+    "highlighted_projects": "重点项目",
+    "clients": "我们的客户",
+    "experiences": "项目经历",
+    "contact": "联系我们"
+  },
+  "servicesCarousel": {
+    "altText": "服务"
+  },
+  "consulting": {
+    "hero": "咨询服务",
+    "title": "量身定制的化学工程咨询",
+    "desc": "我们的专家为追求技术卓越、成本效益和可持续解决方案的企业提供全面的咨询服务。",
+    "list": [
+      "流程优化与设计",
+      "可行性与安全性分析",
+      "法规与合规指导",
+      "项目管理与实施"
+    ]
+  },
+  "testing": {
+    "hero": "检测与分析",
+    "title": "可靠的工业检测服务",
+    "desc": "我们使用先进的分析设备和方法，为原材料、产品及环境样本提供一流的检测服务。",
+    "list": [
+      "化学成分与纯度检测",
+      "物理性能与机械测试",
+      "环境与安全检测",
+      "定制报告与建议"
+    ]
+  },
+  "training": {
+    "hero": "培训课程",
+    "title": "赋能化学工程师",
+    "desc": "我们为专业人员、学生和行业团队设计实用的培训项目，提升技能，推动现代工程实践。",
+    "list": [
+      "短期课程与讲习班",
+      "现场工业培训",
+      "实验技能发展",
+      "为机构定制的课程"
+    ]
+  },
+  "expert": {
+    "desc": "我们的团队由在学术界、工业界和公共部门拥有数十年经验的知名专家组成。他们的专业精神和知识是 CSU 工程卓越的基石。"
+  },
+  "legal": {
+    "desc": "CSU 化学工程系遵守国内外法律标准，获得多个监管机构的认证，并因在学术、工业合作和创新方面的成就获得众多奖项。",
+    "award_title": "奖项名称"
+  },
+ "organization": {
+  "desc": "我们的部门结构旨在确保效率、协作和创新。以下是从执行层到各部门主管的官方组织结构。",
+  "head_of_dept": "部门负责人",
+  "head_of_dept_desc": "以创新和卓越为愿景领导部门。",
+  "senior_lecturer": "高级讲师",
+  "senior_lecturer_desc": "专长于工艺工程和可持续实践。",
+  "research_coord": "研究协调员",
+  "research_coord_desc": "推动科研项目并与工业界合作。",
+  "industrial_liaison": "工业联络官",
+  "industrial_liaison_desc": "将学术界与工业界连接以提供切实可行的解决方案。"
+},
+  "vision": {
+  "title": "愿景与使命",
+  "our_vision": "我们的愿景",
+  "our_vision_desc": "在化学工程教育、研究和创新方面成为全球领先者，推动非洲的可持续发展和工业转型。",
+  "our_mission": "我们的使命",
+  "our_mission_desc": "为学生和研究人员提供必要的知识、工具和批判性思维能力，帮助他们在化学工程领域开发实用解决方案，同时坚持学术卓越和道德责任。"
+},
+  "about": {
+    "title": "关于我们",
+    "heroTitle": "关于 CSU 化学工程",
+    "who_we_are": "我们是谁",
+    "whoWeAreTitle": "我们是谁",
+    "who_we_are_text": "CSU 化学工程系是创新与学术卓越的象征。我们的历史建立在数十年的工业合作、开创性研究以及对非洲优秀工程师的培养之上。",
+    "description": "CSU 化学工程系是创新与学术卓越的象征...",
+    "discover_more": "了解更多",
+    "cards": {
+      "vision": "愿景与使命",
+      "legals": "法律信息",
+      "organization": "组织结构图",
+      "experts": "专家团队"
+    },
+    "discover": [
+      "愿景与使命",
+      "法律信息",
+      "组织结构图",
+      "专家团队"
+    ],
+    "learn_more": "了解更多 →"
+  },
+  "contact": {
+    "get_in_touch": "联系我们",
+    "name": "您的姓名",
+    "email": "您的邮箱",
+    "message": "您的信息",
+    "send": "发送信息"
+  },
+  "experiences": {
+    "highlighted_projects": "重点项目",
+    "highlightedProjectsTitle": "重点项目",
+    "highlighted_subtitle": "近期重点工程项目",
+    "highlightedProjectsSubtitle": "近期重点工程项目",
+    "our_clients": "我们的客户",
+    "clientsTitle": "我们的客户",
+    "refinery": "炼油厂升级",
+    "pipeline": "管道测试"
+  },
+  "home": {
+    "hero_title": "CSU 化学工程",
+    "heroTitle": "CSU 化学工程",
+    "hero_subtitle": "通过创新、精准与专业服务推动非洲工业化的化学工程实践。",
+    "heroSubtitle": "通过创新、精准与专业服务推动非洲工业化的化学工程实践。",
+    "learn_more": "了解更多",
+    "button": "了解更多",
+    "scroll": "向下滚动",
+    "services_title": "我们的服务",
+    "servicesSubtitle": "探索我们在化学工程方面的核心服务",
+    "services_subtitle": "探索我们的专业服务...",
+    "consulting": {
+      "title": "咨询",
+      "desc": "为实现最优成果提供专业规划与工程策略。"
+    },
+    "testing": {
+      "title": "检测",
+      "desc": "为化工和工业材料提供可靠的检测解决方案。"
+    },
+    "training": {
+      "title": "培训",
+      "desc": "通过实用的工程培训，提升您的团队技能。"
+    },
+    "achievements": {
+      "title": "我们的成就",
+      "subtitle": "公认的卓越成果...",
+      "achievementsSubtitle": "在化学工程方面的卓越表现广受认可",
+      "desc": "多年来，CSU 化学工程系提供高质量服务，赢得业界广泛赞誉和影响力。",
+      "achievementsDescription": "多年来，CSU 化学工程系提供高质量服务，赢得业界广泛赞誉和影响力。",
+      "years": "卓越年限",
+      "clients": "满意客户",
+      "more_than": "超过",
+      "moreThan": "超过",
+      "testing": "检测总数",
+      "consultation": "咨询总数",
+      "training": "培训总数",
+      "research": "研究总数"
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "intro": "探索我们在化学工程领域提供的高质量技术服务。",
+    "description_1": "探索我们的技术服务...",
+    "description_2": "我们的服务包括咨询、检测与培训，专为客户需求而设计。",
+    "details": "我们的服务包括咨询、检测与培训，专为客户需求而设计。",
+    "explore_testing": "探索检测服务",
+    "testingButton": "探索检测服务",
+    "see_experiences": "查看项目经验",
+    "experienceLink": "查看项目经验"
+  }
+}

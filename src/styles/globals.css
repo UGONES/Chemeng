@@ -1,0 +1,78 @@
+/*
+  The following directives require Tailwind CSS processing.
+  Make sure your build tool (like PostCSS with Tailwind) is set up correctly.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-display {
+    @apply text-[48px] leading-[56px];
+  }
+
+  .text-heading {
+    @apply text-[36px] leading-[44px];
+  }
+
+  .text-subheading {
+    @apply text-[28px] leading-[36px];
+  }
+
+  .text-title {
+    @apply text-[22px] leading-[32px];
+  }
+
+  .text-subtitle {
+    @apply text-[18px] leading-[28px];
+  }
+
+  .text-paragraph {
+    @apply text-[16px] leading-[24px];
+  }
+}
+
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes scroll-right {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(50%); }
+}
+
+.animate-scroll-left {
+  animation: scroll-left linear infinite;
+}
+
+.animate-scroll-right {
+  animation: scroll-right linear infinite;
+}
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fefefe;
+}
+
+img {
+    @apply rounded-md shadow;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    @apply font-bold;
+}
+
+h1 { @apply text-display font-bold text-primary; }
+h2 { @apply text-heading font-semibold text-primary; }
+h3 { @apply text-subheading text-softBlack; }
+p  { @apply text-paragraph text-gray-700; }
+
+/* Optional: Buttons or links */
+a {
+  @apply text-softWhite hover:text-softBlue transition-colors;
+}

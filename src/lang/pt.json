@@ -1,0 +1,189 @@
+{
+    "nav": {
+        "home": "Início",
+        "about": "Sobre Nós",
+        "services": "Serviços",
+        "consulting": "Consultoria",
+        "training": "Formação",
+        "experiences": "Experiências",
+        "contact": "Contate‑nos"
+    },
+    "footer": {
+        "tagline": "Moldando o futuro industrial da África.",
+        "quick_links": "Links Rápidos",
+        "office": "Escritório",
+        "email": "E‑mail",
+        "follow": "Siga‑nos",
+        "consulting": "Consultoria & Formação",
+        "testing": "Testes",
+        "rights": "Serviços de Engenharia Química. Todos os direitos reservados."
+    },
+    "header": {
+        "department": "Departamento de Engenharia Química"
+    },
+    "loader": {
+        "loading": "Carregando CSU ChemEng..."
+    },
+    "section": {
+        "vision": "Visão & Missão",
+        "org_chart": "Organograma",
+        "personnel": "Pessoal",
+        "experts": "Conheça os Especialistas",
+        "services": "Nossos Serviços",
+        "legal": "Aspectos Legais & Méritos",
+        "highlighted_projects": "Projetos em Destaque",
+        "clients": "Nossos Clientes",
+        "experiences": "Experiência de Projetos",
+        "contact": "Contate‑nos"
+    },
+    "servicesCarousel": {
+        "altText": "Serviço"
+    },
+    "consulting": {
+        "hero": "Serviços de Consultoria",
+        "title": "Consultoria Química Sob Medida",
+        "desc": "Nossos especialistas oferecem consultoria completa para indústrias que buscam excelência técnica, processos eficientes e soluções sustentáveis.",
+        "list": [
+            "Otimização e design de processos",
+            "Análise de viabilidade e segurança",
+            "Orientação regulatória e conformidade",
+            "Gestão e implementação de projetos"
+        ]
+    },
+    "testing": {
+        "hero": "Teste & Análise",
+        "title": "Serviços Industriais de Teste Confiáveis",
+        "desc": "Oferecemos serviços de teste de alta qualidade para matérias‑primas, produtos e amostras ambientais com tecnologia avançada.",
+        "list": [
+            "Composição química & pureza",
+            "Testes físicos & mecânicos",
+            "Testes ambientais & de segurança",
+            "Relatórios personalizados e recomendações"
+        ]
+    },
+    "training": {
+        "hero": "Programas de Treinamento",
+        "title": "Capacitando Engenheiros Químicos",
+        "desc": "Projetamos programas práticos para profissionais, estudantes e equipes industriais, promovendo competências modernas de engenharia.",
+        "list": [
+            "Cursos curtos e workshops",
+            "Treinamento industrial no local",
+            "Desenvolvimento de habilidades laboratoriais",
+            "Programas personalizados para instituições"
+        ]
+    },
+    "expert": {
+        "desc": "Nossa equipe é composta por especialistas renomados com décadas de experiência na academia, indústria e setor público. Seu compromisso e conhecimento são pilares da excelência da CSU."
+    },
+    "legal": {
+        "desc": "O Departamento de Engenharia Química da CSU cumpre padrões legais nacionais e internacionais. Somos certificados por diversos órgãos reguladores e premiados por excelência acadêmica e inovação.",
+        "award_title": "Título do Prêmio"
+    },
+   "organization": {
+  "desc": "Nosso departamento é estruturado para garantir eficiência, colaboração e inovação. Abaixo está a estrutura organizacional oficial, do nível executivo até os chefes de departamento.",
+  "head_of_dept": "Chefe de Departamento",
+  "head_of_dept_desc": "Lidera o departamento com uma visão de inovação e excelência.",
+  "senior_lecturer": "Professor Sênior",
+  "senior_lecturer_desc": "Especializado em engenharia de processos e práticas sustentáveis.",
+  "research_coord": "Coordenador de Pesquisa",
+  "research_coord_desc": "Conduz iniciativas de pesquisa e colaborações com a indústria.",
+  "industrial_liaison": "Agente de Relações Industriais",
+  "industrial_liaison_desc": "Conecta a academia à indústria para soluções práticas."
+},
+    "vision": {
+        "title": "Visão e Missão",
+        "our_vision": "Nossa Visão",
+        "our_vision_desc": "Ser líder global em educação, pesquisa e inovação em engenharia química, promovendo o desenvolvimento sustentável e a transformação industrial em toda a África.",
+        "our_mission": "Nossa Missão",
+        "our_mission_desc": "Capacitar estudantes e pesquisadores com o conhecimento, as ferramentas e as habilidades de pensamento crítico necessárias para desenvolver soluções práticas nas áreas da engenharia química, mantendo a excelência acadêmica e a responsabilidade ética."
+    },
+    "about": {
+        "title": "Sobre nós",
+        "heroTitle": "Sobre a CSU ChemEng",
+        "who_we_are": "Quem somos",
+        "whoWeAreTitle": "Quem somos",
+        "who_we_are_text": "O Departamento de Engenharia Química da CSU é um pilar de inovação e excelência acadêmica. Sua trajetória baseia-se em parcerias industriais, pesquisa de ponta e formação de engenheiros químicos de destaque na África.",
+        "description": "O Departamento de Engenharia Química da CSU é um pilar de inovação...",
+        "discover_more": "Descobrir mais",
+        "cards": {
+            "vision": "Visão & Missão",
+            "legals": "Aspectos Legais",
+            "organization": "Organograma",
+            "experts": "Os Especialistas"
+        },
+        "discover": [
+            "Visão & Missão",
+            "Aspectos Legais",
+            "Organograma",
+            "Os Especialistas"
+        ],
+        "learn_more": "Saiba mais →"
+    },
+    "contact": {
+        "get_in_touch": "Entre em contato",
+        "name": "Seu nome",
+        "email": "Seu e‑mail",
+        "message": "Sua mensagem",
+        "send": "Enviar mensagem"
+    },
+    "experiences": {
+        "highlighted_projects": "Projetos em Destaque",
+        "highlightedProjectsTitle": "Projetos em Destaque",
+        "highlighted_subtitle": "Projetos-chave recentes",
+        "highlightedProjectsSubtitle": "Projetos-chave recentes",
+        "our_clients": "Nossos Clientes",
+        "clientsTitle": "Nossos Clientes",
+        "refinery": "Melhoria de Refinaria",
+        "pipeline": "Teste de Gasoduto"
+    },
+    "home": {
+        "hero_title": "CSU ChemEng",
+        "heroTitle": "CSU ChemEng",
+        "hero_subtitle": "Avançando engenharia química com inovação, precisão e serviços profissionais na indústria africana.",
+        "heroSubtitle": "Avançando engenharia química com inovação, precisão e serviços profissionais na indústria africana.",
+        "learn_more": "Saiba mais",
+        "button": "Saiba mais",
+        "scroll": "Role",
+        "services_title": "Nossos Serviços",
+        "servicesSubtitle": "Explore nossas principais ofertas em engenharia química",
+        "services_subtitle": "Explore nossas ofertas...",
+        "consulting": {
+            "title": "Consultoria",
+            "desc": "Planejamento especializado e estratégias para resultados ótimos."
+        },
+        "testing": {
+            "title": "Testes",
+            "desc": "Soluções confiáveis de teste para materiais químicos e industriais."
+        },
+        "training": {
+            "title": "Treinamento",
+            "desc": "Aprimore sua equipe com treinamento prático."
+        },
+        "achievements": {
+            "title": "Nossas Conquistas",
+            "subtitle": "Excelência reconhecida...",
+            "achievementsSubtitle": "Excelência reconhecida em engenharia química",
+            "desc": "CSU ChemEng tem fornecido serviços profissionais com impacto e reconhecimento.",
+            "achievementsDescription": "CSU ChemEng tem fornecido serviços profissionais com impacto e reconhecimento.",
+            "years": "Anos de Excelência",
+            "clients": "Clientes Satisfeitos",
+            "more_than": "Com mais de",
+            "moreThan": "Com mais de",
+            "testing": "Testes Totais",
+            "consultation": "Consultas Totais",
+            "training": "Treinamentos Totais",
+            "research": "Pesquisas Totais"
+        }
+    },
+    "services": {
+        "title": "Nossos Serviços",
+        "intro": "Explore nossos serviços técnicos elaborados para excelência em engenharia química.",
+        "description_1": "Explore nossos serviços técnicos...",
+        "description_2": "Oferecemos consultoria, testes e formações adaptadas às necessidades dos clientes.",
+        "details": "Oferecemos consultoria, testes e formações adaptadas às necessidades dos clientes.",
+        "explore_testing": "Explorar serviços de teste",
+        "testingButton": "Explorar serviços de teste",
+        "see_experiences": "Ver nossas experiências",
+        "experienceLink": "Ver nossas experiências"
+    }
+}

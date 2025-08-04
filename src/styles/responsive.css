@@ -1,0 +1,71 @@
+/* === Global Responsive Utilities === */
+
+/* ==================== 320px: Mobile S ==================== */
+@media (max-width: 320px) {
+  .hero-text { font-size: 1.25rem; }
+  .nav-links { @apply flex-col space-y-4; }
+  .card-grid { @apply grid-cols-1; }
+  .text-xs-mobile { font-size: 0.7rem; }
+  .hide-on-small { display: none; }
+  .img-sm { width: 100%; height: auto; }
+}
+
+/* ==================== 375px: Mobile M ==================== */
+@media (max-width: 375px) {
+  .hero-text { font-size: 1.5rem; }
+  .card-grid { @apply grid-cols-1; }
+  .footer-text { font-size: 0.75rem; }
+  .icon-small { width: 1.2rem; height: 1.2rem; }
+}
+
+/* ==================== 425px: Mobile L ==================== */
+@media (max-width: 425px) {
+  .section-padding { padding: 1rem; }
+  .text-center-mobile { text-align: center; }
+  .carousel-container { height: 16rem; }
+  .btn-mobile { font-size: 0.875rem; padding: 0.5rem 1rem; }
+}
+
+/* ==================== 768px: Tablet ==================== */
+@media (max-width: 768px) {
+  .nav-links { @apply flex-col space-y-4; }
+  .hero-text { @apply text-2xl; }
+  .card-grid { @apply grid-cols-1; }
+  .sidebar-hidden { display: none; }
+  .mobile-only { display: block; }
+  .text-md-tablet { font-size: 1rem; }
+  .image-full-tablet { width: 100%; height: auto; }
+  .home .grid-cols-3 { @apply grid-cols-1; }
+  .about-page section { @apply px-4; }
+}
+
+/* ==================== 1024px: Laptop ==================== */
+@media (max-width: 1024px) {
+  .section-padding { @apply px-6; }
+  .hero-text { @apply text-3xl; }
+  .grid-responsive { grid-template-columns: repeat(2, 1fr); }
+  .carousel-container { height: 18rem; }
+  .text-lg-laptop { font-size: 1.125rem; }
+  .btn-laptop { font-size: 1rem; padding: 0.75rem 1.25rem; }
+}
+
+/* ==================== 1440px: Laptop L ==================== */
+@media (max-width: 1440px) {
+  .grid-responsive { grid-template-columns: repeat(3, 1fr); }
+  .text-xl-laptopL { font-size: 1.25rem; }
+  .image-large { width: 100%; max-width: 500px; }
+  .about-grid, .experiences-grid { @apply gap-6; }
+}
+
+/* ==================== 2560px: 4K Display ==================== */
+@media (min-width: 2560px) {
+  .hero-text { font-size: 4rem; }
+  .text-4k { font-size: 2rem; }
+  .grid-responsive { grid-template-columns: repeat(4, 1fr); }
+  .btn-4k { font-size: 1.5rem; padding: 1rem 2rem; }
+  .image-4k { width: 100%; max-width: 800px; }
+  .p-4k { padding: 3rem; }
+  .text-base { @apply text-lg; }
+  .text-lg { @apply text-xl; }
+  .max-w-7xl { @apply max-w-screen-xl; }
+}
