@@ -60,9 +60,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-sm">{t("footer.follow")}</h4>
             <div className="flex space-x-3 text-sm">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary"><FaFacebookF /></a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary"><FaTwitter /></a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary"><FaInstagram /></a>
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-softBlue"><FaFacebookF /></a>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-softBlue"><FaTwitter /></a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-softBlue"><FaInstagram /></a>
             </div>
           </div>
         </div>
@@ -71,11 +71,11 @@ const Footer = () => {
         <div className="space-y-3">
           <div>
             <h4 className="font-semibold text-sm">{t("footer.consulting")}</h4>
-            <p className="text-gray-300">+234 801 234 5678</p>
-            <p className="text-gray-300">+234 809 876 5432</p>
+            <p className="text-gray-300 text-sm">+234 801 234 5678</p>
+            <p className="text-gray-300 text-sm">+234 809 876 5432</p>
             <h4 className="font-semibold text-sm mt-2">{t("footer.testing")}</h4>
-            <p className="text-gray-300">+234 701 456 7890</p>
-            <p className="text-gray-300">+234 708 987 6543</p>
+            <p className="text-gray-300 text-sm">+234 701 456 7890</p>
+            <p className="text-gray-300 text-sm">+234 708 987 6543</p>
           </div>
         </div>
       </div>
