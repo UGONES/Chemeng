@@ -16,11 +16,10 @@ const About = () => {
           loop
           src="/assests/hero-video.mp4"
         />
+        <div className="absolute inset-0 flex flex-col items-center text-softWhite justify-center text-center px-4">
+          <h2 className="text-3xl font-bold text-softWhite" >{t("about.heroTitle")} </h2>
+        </div>
       </section>
-
-      <div className="absolute inset-0 flex flex-col items-center text-softWhite justify-center text-center px-4">
-        <h2 className="text-3xl font-bold text-softWhite pb-6" >{t("about.heroTitle")} </h2>
-      </div>
 
       <section className="bg-softWhite py-10 px-6 md:px-20 flex gap-8 text-gray-700">
         <h3 className="text-xl md:text-xl text-left ml-2 pr-0 pl-0 font-bold mb-4 gap-8 text-primary">
